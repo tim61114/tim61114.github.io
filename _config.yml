@@ -14,7 +14,7 @@ header_pages:
   # - peter.md
   - contact.md
 
-footer: 'Check out my <a href="https://github.com/tim61114" target="_blank">github</a>  / Checkout this <a href="https://github.com/b2a3e8/jekyll-theme-console" target="_blank">jekyll theme </a>'
+footer: 'Page modified by tim61114 / Check out my <a href="https://github.com/tim61114" target="_blank">github</a>  / Check out this <a href="https://github.com/b2a3e8/jekyll-theme-console" target="_blank">jekyll theme </a>'
 
 # style: light # dark (default) or light
 listen_for_clients_preferred_style: true # true or false (default)
